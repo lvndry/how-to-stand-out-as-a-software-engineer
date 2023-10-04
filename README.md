@@ -2,7 +2,13 @@
 
 I wrote "How to Stand Out as a Software Engineer" because I wanted to share the experiences and insights that helped me land a job in one of the best companies in the world and distinguish myself in the competitive tech industry. This book offers readers practical, real-world advice to enhance their software engineering careers. It's a guide designed to empower software engineers at all career stages to thrive and stand out in their professional journey.
 
-## Read online
+## Read the book
+
+### PDF
+
+The PDF version of the book is available [here](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf)
+
+### Online
 
 The book is also available online [here](https://gem-asparagus-164.notion.site/How-to-stand-out-as-a-software-engineer-ee33eafaefe247a7aebccf55b54fac94?pvs=4)
 
