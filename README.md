@@ -1,6 +1,6 @@
 # How to stand out as a software engineer
 
-I wrote "How to Stand Out as a Software Engineer" because I wanted to share the experiences and insights that helped me land a job in one of the best companies in the world and distinguish myself in the competitive tech industry. This book offers readers practical, real-world advice to enhance their software engineering careers. It's a guide designed to empower software engineers at all career stages to thrive and stand out in their professional journey.
+I wrote *How to Stand Out as a Software Engineer* because I wanted to share the experiences and insights that helped me land a job in one of the best companies in the world and distinguish myself in the competitive tech industry. This book offers readers practical, real-world advice to enhance their software engineering careers. It's a guide designed to empower software engineers at all career stages to thrive and stand out in their professional journey.
 
 ## Read the book
 
