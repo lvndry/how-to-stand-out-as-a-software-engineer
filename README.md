@@ -12,7 +12,7 @@ The PDF version of the book is available [here](https://github.com/lvndry/how-to
 
 The book is also available online [here](https://gem-asparagus-164.notion.site/How-to-stand-out-as-a-software-engineer-ee33eafaefe247a7aebccf55b54fac94?pvs=4)
 
-## Contribution
+## Support
 
 If you liked the book or would like to support the author:
 
